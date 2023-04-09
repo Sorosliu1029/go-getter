@@ -1426,6 +1426,10 @@ input:checked + .toggle-bg {
   padding-top: 0.5rem;
 }
 
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -1782,9 +1786,17 @@ input:checked + .toggle-bg {
     margin-right: calc(1rem * var(--tw-space-x-reverse));
     margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
   }
+
+  .sm\:pt-20 {
+    padding-top: 5rem;
+  }
 }
 
 @media (min-width: 768px) {
+  .md\:pt-20 {
+    padding-top: 5rem;
+  }
+
   .md\:text-5xl {
     font-size: 3rem;
     line-height: 1;
