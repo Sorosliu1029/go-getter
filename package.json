@@ -1,0 +1,38 @@
+{
+  "name": "go-getter",
+  "version": "1.0.0",
+  "description": "Go-Getter website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sorosliu1029/go-getter.git"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "tailwind",
+    "tailwind",
+    "css",
+    "flowbite",
+    "responsive",
+    "html",
+    "css",
+    "javascript",
+    "design"
+  ],
+  "author": "Sorosliu1029",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sorosliu1029/go-getter/issues"
+  },
+  "homepage": "https://github.com/Sorosliu1029/go-getter#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  },
+  "dependencies": {
+    "flowbite": "^1.4.7"
+  }
+}
